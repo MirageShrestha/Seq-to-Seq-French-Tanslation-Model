@@ -1,0 +1,431 @@
+English,French
+go,va
+run,cours
+stop,arrête
+help,aide
+come,viens
+wait,attends
+sit,assieds-toi
+listen,écoute
+look,regarde
+leave,pars
+i agree,je suis d'accord
+i know,je sais
+i lied,j'ai menti
+i lost,j'ai perdu
+i quit,j'abandonne
+i won,j'ai gagné
+i care,je m'en soucie
+i tried,j'ai essayé
+i failed,j'ai échoué
+i cried,j'ai pleuré
+be nice,sois gentil
+be quiet,tais-toi
+be careful,fais attention
+be honest,sois honnête
+be patient,sois patient
+be strong,sois fort
+be ready,sois prêt
+be brave,sois courageux
+be kind,sois aimable
+be good,sois sage
+i am tired,je suis fatigué
+i am happy,je suis heureux
+i am sorry,je suis désolé
+i am ready,je suis prêt
+i am bored,je m'ennuie
+i am cold,j'ai froid
+i am hot,j'ai chaud
+i am lost,je suis perdu
+i am fine,je vais bien
+i am busy,je suis occupé
+i am sick,je suis malade
+i am free,je suis libre
+i am late,je suis en retard
+i am full,je suis rassasié
+i am new,je suis nouveau
+i am old,je suis vieux
+i am young,je suis jeune
+i am tall,je suis grand
+i am rich,je suis riche
+i am poor,je suis pauvre
+he left,il est parti
+she left,elle est partie
+he came,il est venu
+she came,elle est venue
+he ran,il a couru
+she ran,elle a couru
+he fell,il est tombé
+she fell,elle est tombée
+he won,il a gagné
+she won,elle a gagné
+he lied,il a menti
+she lied,elle a menti
+he slept,il a dormi
+she slept,elle a dormi
+he smiled,il a souri
+she smiled,elle a souri
+he cried,il a pleuré
+she cried,elle a pleuré
+he waited,il a attendu
+she waited,elle a attendu
+we left,nous sommes partis
+we came,nous sommes venus
+we won,nous avons gagné
+we lost,nous avons perdu
+we tried,nous avons essayé
+we failed,nous avons échoué
+we agreed,nous avons accepté
+we waited,nous avons attendu
+we stayed,nous sommes restés
+we helped,nous avons aidé
+they left,ils sont partis
+they came,ils sont venus
+they won,ils ont gagné
+they lost,ils ont perdu
+they ran,ils ont couru
+they slept,ils ont dormi
+they waited,ils ont attendu
+they helped,ils ont aidé
+they agreed,ils ont accepté
+they tried,ils ont essayé
+i like cats,j'aime les chats
+i like dogs,j'aime les chiens
+i like rain,j'aime la pluie
+i like snow,j'aime la neige
+i like music,j'aime la musique
+i like paris,j'aime paris
+i like food,j'aime la nourriture
+i like sport,j'aime le sport
+i like coffee,j'aime le café
+i like summer,j'aime l'été
+i love you,je t'aime
+i love paris,j'adore paris
+i love music,j'adore la musique
+i love dogs,j'adore les chiens
+i love cats,j'adore les chats
+i love france,j'adore la france
+i love coffee,j'adore le café
+i love winter,j'adore l'hiver
+i love summer,j'adore l'été
+i love reading,j'adore lire
+i hate lies,je déteste les mensonges
+i hate noise,je déteste le bruit
+i hate cold,je déteste le froid
+i hate rain,je déteste la pluie
+i hate waiting,je déteste attendre
+i hate spiders,je déteste les araignées
+i hate traffic,je déteste les embouteillages
+i hate mondays,je déteste les lundis
+i hate fighting,je déteste se battre
+i hate losing,je déteste perdre
+she is kind,elle est gentille
+she is smart,elle est intelligente
+she is tall,elle est grande
+she is funny,elle est drôle
+she is brave,elle est courageuse
+she is tired,elle est fatiguée
+she is happy,elle est heureuse
+she is angry,elle est en colère
+she is quiet,elle est calme
+she is young,elle est jeune
+he is kind,il est gentil
+he is smart,il est intelligent
+he is tall,il est grand
+he is funny,il est drôle
+he is brave,il est courageux
+he is tired,il est fatigué
+he is happy,il est heureux
+he is angry,il est en colère
+he is quiet,il est calme
+he is young,il est jeune
+they are kind,ils sont gentils
+they are smart,ils sont intelligents
+they are tall,ils sont grands
+they are funny,ils sont drôles
+they are brave,ils sont courageux
+they are tired,ils sont fatigués
+they are happy,ils sont heureux
+they are angry,ils sont en colère
+they are quiet,ils sont calmes
+they are young,ils sont jeunes
+i need help,j'ai besoin d'aide
+i need water,j'ai besoin d'eau
+i need rest,j'ai besoin de repos
+i need money,j'ai besoin d'argent
+i need time,j'ai besoin de temps
+i need food,j'ai besoin de nourriture
+i need sleep,j'ai besoin de sommeil
+i need space,j'ai besoin d'espace
+i need air,j'ai besoin d'air
+i need you,j'ai besoin de toi
+can you help,pouvez-vous aider
+can you come,pouvez-vous venir
+can you wait,pouvez-vous attendre
+can you listen,pouvez-vous écouter
+can you drive,pouvez-vous conduire
+can you cook,pouvez-vous cuisiner
+can you swim,pouvez-vous nager
+can you dance,pouvez-vous danser
+can you sing,pouvez-vous chanter
+can you read,pouvez-vous lire
+do you know,savez-vous
+do you agree,êtes-vous d'accord
+do you care,vous en souciez-vous
+do you trust,faites-vous confiance
+do you speak,parlez-vous
+do you read,lisez-vous
+do you cook,cuisinez-vous
+do you swim,nagez-vous
+do you drive,conduisez-vous
+do you dance,dansez-vous
+where is it,où est-ce
+where are you,où êtes-vous
+where did he go,où est-il allé
+where is she,où est-elle
+where is he,où est-il
+where is tom,où est tom
+where are they,où sont-ils
+where do you live,où habitez-vous
+where is the dog,où est le chien
+where is the cat,où est le chat
+what happened,que s'est-il passé
+what is this,qu'est-ce que c'est
+what do you want,que voulez-vous
+what time is it,quelle heure est-il
+what is your name,quel est votre nom
+what did you say,qu'avez-vous dit
+what can i do,que puis-je faire
+what are you doing,que faites-vous
+what do you need,de quoi avez-vous besoin
+what is the problem,quel est le problème
+how are you,comment allez-vous
+how did it happen,comment cela s'est-il passé
+how do you know,comment savez-vous
+how far is it,c'est loin
+how much is it,combien ça coûte
+how old are you,quel âge avez-vous
+how long will it take,combien de temps cela prendra
+how can i help,comment puis-je aider
+how was your day,comment était ta journée
+how is she,comment va-t-elle
+please help me,aidez-moi s'il vous plaît
+please be quiet,s'il vous plaît soyez silencieux
+please be careful,s'il vous plaît faites attention
+please come back,s'il vous plaît revenez
+please sit down,asseyez-vous s'il vous plaît
+please wait here,attendez ici s'il vous plaît
+please call me,appelez-moi s'il vous plaît
+please be honest,s'il vous plaît soyez honnête
+please stop it,arrêtez s'il vous plaît
+please listen to me,écoutez-moi s'il vous plaît
+tom is here,tom est ici
+tom is gone,tom est parti
+tom is kind,tom est gentil
+tom is smart,tom est intelligent
+tom is happy,tom est heureux
+tom is angry,tom est en colère
+tom is tired,tom est fatigué
+tom is sick,tom est malade
+tom is ready,tom est prêt
+tom is brave,tom est courageux
+tom left early,tom est parti tôt
+tom came back,tom est revenu
+tom ran away,tom s'est enfui
+tom fell down,tom est tombé
+tom gave up,tom a abandonné
+tom helped me,tom m'a aidé
+tom surprised me,tom m'a surpris
+tom called me,tom m'a appelé
+tom waited for me,tom m'a attendu
+tom saved her,tom l'a sauvée
+mary is here,marie est ici
+mary is gone,marie est partie
+mary is kind,marie est gentille
+mary is smart,marie est intelligente
+mary is happy,marie est heureuse
+mary is angry,marie est en colère
+mary is tired,marie est fatiguée
+mary is sick,marie est malade
+mary is ready,marie est prête
+mary is brave,marie est courageuse
+mary left early,marie est partie tôt
+mary came back,marie est revenue
+mary ran away,marie s'est enfuie
+mary fell down,marie est tombée
+mary gave up,marie a abandonné
+mary helped me,marie m'a aidé
+mary surprised me,marie m'a surprise
+mary called me,marie m'a appelé
+mary waited for me,marie m'a attendu
+mary saved him,marie l'a sauvé
+it is cold,il fait froid
+it is hot,il fait chaud
+it is late,il est tard
+it is early,il est tôt
+it is dark,il fait sombre
+it is raining,il pleut
+it is snowing,il neige
+it is windy,il y a du vent
+it is sunny,il fait soleil
+it is cloudy,il est nuageux
+this is good,c'est bon
+this is bad,c'est mauvais
+this is easy,c'est facile
+this is hard,c'est difficile
+this is fun,c'est amusant
+this is boring,c'est ennuyeux
+this is strange,c'est étrange
+this is amazing,c'est incroyable
+this is perfect,c'est parfait
+this is wrong,c'est faux
+that is mine,c'est le mien
+that is yours,c'est le vôtre
+that is hers,c'est le sien
+that is his,c'est le sien
+that is ours,c'est le nôtre
+that is theirs,c'est le leur
+that is true,c'est vrai
+that is false,c'est faux
+that is enough,c'est assez
+that is fine,c'est bien
+i went home,je suis rentré chez moi
+i came home,je suis rentré à la maison
+i stayed home,je suis resté à la maison
+i worked hard,j'ai travaillé dur
+i studied hard,j'ai étudié dur
+i slept well,j'ai bien dormi
+i ate well,j'ai bien mangé
+i drank water,j'ai bu de l'eau
+i read a book,j'ai lu un livre
+i wrote a letter,j'ai écrit une lettre
+we are friends,nous sommes amis
+we are family,nous sommes une famille
+we are together,nous sommes ensemble
+we are done,nous avons terminé
+we are ready,nous sommes prêts
+we are late,nous sommes en retard
+we are lost,nous sommes perdus
+we are happy,nous sommes heureux
+we are tired,nous sommes fatigués
+we are lucky,nous avons de la chance
+let him go,laissez-le partir
+let her go,laissez-la partir
+let me try,laissez-moi essayer
+let me help,laissez-moi aider
+let it go,laissez tomber
+let us go,allons-y
+let me know,faites-le moi savoir
+let him speak,laissez-le parler
+let her speak,laissez-la parler
+let them come,laissez-les venir
+i want to go,je veux y aller
+i want to eat,je veux manger
+i want to sleep,je veux dormir
+i want to help,je veux aider
+i want to learn,je veux apprendre
+i want to read,je veux lire
+i want to sing,je veux chanter
+i want to dance,je veux danser
+i want to swim,je veux nager
+i want to travel,je veux voyager
+i have to go,je dois partir
+i have to work,je dois travailler
+i have to study,je dois étudier
+i have to leave,je dois partir
+i have to wait,je dois attendre
+i have to help,je dois aider
+i have to rest,je dois me reposer
+i have to eat,je dois manger
+i have to sleep,je dois dormir
+i have to think,je dois réfléchir
+she wants to go,elle veut partir
+she wants to eat,elle veut manger
+she wants to sleep,elle veut dormir
+she wants to help,elle veut aider
+she wants to learn,elle veut apprendre
+she wants to read,elle veut lire
+she wants to sing,elle veut chanter
+she wants to dance,elle veut danser
+she wants to swim,elle veut nager
+she wants to travel,elle veut voyager
+he wants to go,il veut partir
+he wants to eat,il veut manger
+he wants to sleep,il veut dormir
+he wants to help,il veut aider
+he wants to learn,il veut apprendre
+he wants to read,il veut lire
+he wants to sing,il veut chanter
+he wants to dance,il veut danser
+he wants to swim,il veut nager
+he wants to travel,il veut voyager
+they want to go,ils veulent partir
+they want to eat,ils veulent manger
+they want to sleep,ils veulent dormir
+they want to help,ils veulent aider
+they want to learn,ils veulent apprendre
+they want to read,ils veulent lire
+they want to sing,ils veulent chanter
+they want to dance,ils veulent danser
+they want to swim,ils veulent nager
+they want to travel,ils veulent voyager
+i speak french,je parle français
+i speak english,je parle anglais
+she speaks french,elle parle français
+he speaks french,il parle français
+they speak french,ils parlent français
+we speak french,nous parlons français
+do you speak french,parlez-vous français
+can you speak french,pouvez-vous parler français
+she speaks english,elle parle anglais
+he speaks english,il parle anglais
+i went to paris,je suis allé à paris
+i live in france,je vis en france
+i love france,j'adore la france
+paris is beautiful,paris est magnifique
+france is wonderful,la france est merveilleuse
+the sky is blue,le ciel est bleu
+the sea is calm,la mer est calme
+the sun is bright,le soleil est brillant
+the moon is full,la lune est pleine
+the wind is strong,le vent est fort
+open the door,ouvrez la porte
+close the window,fermez la fenêtre
+turn on the light,allumez la lumière
+turn off the tv,éteignez la télévision
+clean the room,nettoyez la chambre
+wash the dishes,lavez la vaisselle
+make the bed,faites le lit
+answer the phone,répondez au téléphone
+read the book,lisez le livre
+write your name,écrivez votre nom
+the dog is cute,le chien est mignon
+the cat is lazy,le chat est paresseux
+the bird is free,l'oiseau est libre
+the fish is fresh,le poisson est frais
+the horse is fast,le cheval est rapide
+the baby is sleeping,le bébé dort
+the child is playing,l'enfant joue
+the woman is reading,la femme lit
+the man is working,l'homme travaille
+the teacher is talking,le professeur parle
+i am a student,je suis étudiant
+she is a teacher,elle est professeur
+he is a doctor,il est médecin
+they are engineers,ils sont ingénieurs
+we are colleagues,nous sommes collègues
+she is my friend,elle est mon amie
+he is my brother,il est mon frère
+she is my sister,elle est ma sœur
+they are my parents,ils sont mes parents
+we are a team,nous sommes une équipe
+never give up,n'abandonnez jamais
+always be honest,soyez toujours honnête
+always stay calm,restez toujours calme
+never look back,ne regardez jamais en arrière
+always try harder,essayez toujours plus fort
+stay positive always,restez toujours positif
+keep moving forward,continuez à avancer
+work hard daily,travaillez dur tous les jours
+help others often,aidez souvent les autres
+stay strong always,restez toujours fort
